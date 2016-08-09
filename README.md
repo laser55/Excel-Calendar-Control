@@ -23,7 +23,7 @@ Public callingSheet As String
 ```
 That is all for setting up
 
-## Using the calandar form
+## Using the calendar form
 To use the form simply use this command anywhere in the workbook VBA project
 ```VB
 calendar.Show
