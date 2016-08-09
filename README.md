@@ -28,5 +28,8 @@ To use the form simply use this command anywhere in the workbook VBA project
 ```VB
 calendar.Show
 ```
+## example sheet
+You also just use the already setup example excel sheet. The example is simple. The calender control will pop-up when you select the C2 cell in sheet one. click on the day you want and the control will automatically close and write the date in C2.
+
 
 *if anyone has a better and more convenient way to implement this, please contribute to this small project
